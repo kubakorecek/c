@@ -1,3 +1,5 @@
+/*Extending classical program with new line operator */
+
 #include <stdio.h>
 
 void main(){
